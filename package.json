@@ -8,7 +8,6 @@
     "predeploy": "npm run dev",
     "deploy": "gh-pages -d dev",
     "homepage": "https://karinakardash.github.io/time-widget"
-    
   },
   "repository": {
     "type": "git",
