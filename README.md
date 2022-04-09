@@ -6,8 +6,8 @@ This cute pink app includes a clock, a timer and a stopwatch.
 
 ### Technologies:
 
- +HTML5 / CSS3
- +Javascript
+ <li>HTML5 / CSS3</li>
+ <li>Javascript</li>
 
 ### How to start
 
