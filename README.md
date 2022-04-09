@@ -1,1 +1,24 @@
-# time-widget
+# barbie-time-widget
+
+karinakardash.github.io/time-widget/
+
+This cute pink app includes a clock, a timer and a stopwatch.
+
+### Technologies:
+
+ +HTML5 / CSS3
+ +Javascript
+
+### How to start
+
+1. Download a repository from github:
+
+> https://github.com/karinakardash/time-widget.git
+
+2. $ npm i
+
+3. $ npm run dev
+
+### Environment
+
+The project is built using the parcel package
