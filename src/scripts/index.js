@@ -130,7 +130,7 @@ function startStopwatch() {
     if (sec > 9){
         appendSeconds.innerHTML = sec;
     }
-    if (sec > 99){
+    if (sec > 59){
         min++;
         appendMinutes.innerHTML = "0" + min;
         sec = 0;
