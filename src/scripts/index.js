@@ -118,7 +118,7 @@ function startStopwatch() {
     if (tens > 9){
         appendTens.innerHTML = tens;
     } 
-    if (tens > 99) {
+    if (tens > 59) {
         sec++;
         appendSeconds.innerHTML = "0" + sec;
         tens = 0;
