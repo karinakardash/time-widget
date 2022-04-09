@@ -1,6 +1,6 @@
 # barbie-time-widget
 
-karinakardash.github.io/time-widget/
+https://karinakardash.github.io/time-widget/
 
 This cute pink app includes a clock, a timer and a stopwatch.
 
