@@ -7,7 +7,9 @@
     font-family: 'Poppins', sans-serif;
 }
 body, html{
-    background-color: rgb(255, 229, 234);
+    background: url(../bgmain.jpg);
+    background-size: 100%;
+    background-repeat:repeat-y;
 }
 .main {
     padding: 100px 0;
@@ -210,6 +212,6 @@ body, html{
         width: 40%;
     }
     .buttons {
-        width: 1000%;
+        width: 100%;
     }
 }
